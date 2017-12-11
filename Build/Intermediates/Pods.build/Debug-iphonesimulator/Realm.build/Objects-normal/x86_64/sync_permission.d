@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/Realm/ObjectStore/src/sync/sync_permission.cpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target\ Support\ Files/Realm/Realm-prefix.pch \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/sync/sync_permission.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/results.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/collection_notifications.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/index_set.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/atomic_shared_ptr.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/descriptor_ordering.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/feature_checks.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/impl/collection_notifier.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/impl/collection_change_builder.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/property.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/compiler.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/tagged_bool.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/shared_realm.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/execution_context_id.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/aligned_union.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/schema.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/impl/notification_wrapper.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/impl/object_accessor_impl.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object_accessor.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/list.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object_schema.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object_store.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/format.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/any.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/sync/sync_config.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/sync/sync_user.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/sync/sync_manager.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/sync/sync_session.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/event_loop_signal.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/apple/event_loop_signal.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/uuid.hpp

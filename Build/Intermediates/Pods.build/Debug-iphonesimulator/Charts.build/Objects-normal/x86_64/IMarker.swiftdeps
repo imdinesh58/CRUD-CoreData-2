@@ -1,0 +1,56 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "IMarker"
+provides-nominal:
+- "P6Charts7IMarker"
+provides-member:
+- ["P6Charts7IMarker", ""]
+provides-dynamic-lookup:
+- "refreshContent"
+- "offsetForDrawing"
+- "offset"
+- "draw"
+depends-top-level:
+- "ChartDataEntry"
+- "CGPoint"
+- "IMarker"
+- "CGContext"
+- "NSObjectProtocol"
+- "Highlight"
+depends-member:
+- ["P6Charts7IMarker", "CGContext"]
+- ["P6Charts7IMarker", "CGPoint"]
+- ["P6Charts7IMarker", "ChartDataEntry"]
+- ["P6Charts7IMarker", "Highlight"]
+- ["P6Charts7IMarker", "draw"]
+- ["P6Charts7IMarker", "offset"]
+- ["P6Charts7IMarker", "offsetForDrawing"]
+- ["P6Charts7IMarker", "refreshContent"]
+- ["P6Charts7IMarker", ""]
+- ["PSo16NSObjectProtocol", "CGContext"]
+- ["PSo16NSObjectProtocol", "CGPoint"]
+- ["PSo16NSObjectProtocol", "ChartDataEntry"]
+- ["PSo16NSObjectProtocol", "Highlight"]
+- ["PSo16NSObjectProtocol", "draw"]
+- ["PSo16NSObjectProtocol", "offset"]
+- ["PSo16NSObjectProtocol", "offsetForDrawing"]
+- ["PSo16NSObjectProtocol", "refreshContent"]
+- ["PSo16NSObjectProtocol", ""]
+depends-nominal:
+- "P6Charts7IMarker"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target Support Files/Charts/Charts-umbrella.h"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/Charts.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "9020610b9d1271b62418836b78b36dc1"

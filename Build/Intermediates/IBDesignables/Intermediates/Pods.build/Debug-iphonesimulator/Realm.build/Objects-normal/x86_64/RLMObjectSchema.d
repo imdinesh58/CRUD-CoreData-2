@@ -1,0 +1,33 @@
+dependencies: \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/Realm/RLMObjectSchema.mm \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target\ Support\ Files/Realm/Realm-prefix.pch \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectSchema_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectSchema_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectSchema.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object_schema.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMArray.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMCollection.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMThreadSafeReference.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMListBase.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObject_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectBase_Dynamic.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObject.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectBase.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMProperty_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMProperty_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMProperty.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMConstants.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/property.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/compiler.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/tagged_bool.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm_Dynamic.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMClassInfo.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMSchema_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMSchema.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMSwiftSupport.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMUtil.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMOptionalBase.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object_store.hpp

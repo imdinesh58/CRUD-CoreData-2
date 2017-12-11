@@ -1,0 +1,541 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "AnimatedZoomViewJob"
+provides-nominal:
+- "C6Charts19AnimatedZoomViewJob"
+provides-member:
+- ["C6Charts19AnimatedZoomViewJob", ""]
+provides-dynamic-lookup:
+- "zoomCenterX"
+- "zoomOriginX"
+- "animationUpdate"
+- "xAxisRange"
+- "animationEnd"
+- "zoomCenterY"
+- "zoomOriginY"
+- "yAxis"
+- "scaleY"
+- "scaleX"
+depends-top-level:
+- "AnimatedZoomViewJob"
+- "ChartEasingFunctionBlock"
+- !private "BarLineChartViewBase"
+- !private "BooleanLiteralType"
+- "TimeInterval"
+- !private "-"
+- !private "StringLiteralType"
+- "ChartViewBase"
+- !private "*"
+- !private "/"
+- "Transformer"
+- "YAxis"
+- "Double"
+- "CastingPrecedence"
+- "AssignmentPrecedence"
+- "ViewPortHandler"
+- !private "??"
+- "AnimatedViewPortJob"
+- "CGFloat"
+- !private "CGPoint"
+- !private "+"
+depends-member:
+- !private ["Ps16AbsoluteValuable", "init"]
+- !private ["C6Charts19AnimatedViewPortJob", "BarLineChartViewBase"]
+- ["C6Charts19AnimatedViewPortJob", "CGFloat"]
+- !private ["C6Charts19AnimatedViewPortJob", "CGPoint"]
+- ["C6Charts19AnimatedViewPortJob", "ChartEasingFunctionBlock"]
+- ["C6Charts19AnimatedViewPortJob", "ChartViewBase"]
+- ["C6Charts19AnimatedViewPortJob", "Double"]
+- ["C6Charts19AnimatedViewPortJob", "TimeInterval"]
+- ["C6Charts19AnimatedViewPortJob", "Transformer"]
+- ["C6Charts19AnimatedViewPortJob", "ViewPortHandler"]
+- ["C6Charts19AnimatedViewPortJob", "YAxis"]
+- ["C6Charts19AnimatedViewPortJob", "animationEnd"]
+- ["C6Charts19AnimatedViewPortJob", "animationUpdate"]
+- ["C6Charts19AnimatedViewPortJob", "deinit"]
+- ["C6Charts19AnimatedViewPortJob", "init"]
+- !private ["C6Charts19AnimatedViewPortJob", "phase"]
+- ["C6Charts19AnimatedViewPortJob", "scaleX"]
+- ["C6Charts19AnimatedViewPortJob", "scaleY"]
+- !private ["C6Charts19AnimatedViewPortJob", "transformer"]
+- !private ["C6Charts19AnimatedViewPortJob", "view"]
+- !private ["C6Charts19AnimatedViewPortJob", "viewPortHandler"]
+- ["C6Charts19AnimatedViewPortJob", "xAxisRange"]
+- !private ["C6Charts19AnimatedViewPortJob", "xOrigin"]
+- ["C6Charts19AnimatedViewPortJob", "yAxis"]
+- !private ["C6Charts19AnimatedViewPortJob", "yOrigin"]
+- ["C6Charts19AnimatedViewPortJob", "zoomCenterX"]
+- ["C6Charts19AnimatedViewPortJob", "zoomCenterY"]
+- ["C6Charts19AnimatedViewPortJob", "zoomOriginX"]
+- ["C6Charts19AnimatedViewPortJob", "zoomOriginY"]
+- ["C6Charts19AnimatedViewPortJob", ""]
+- !private ["C6Charts19AnimatedZoomViewJob", "BarLineChartViewBase"]
+- ["C6Charts19AnimatedZoomViewJob", "CGFloat"]
+- !private ["C6Charts19AnimatedZoomViewJob", "CGPoint"]
+- ["C6Charts19AnimatedZoomViewJob", "ChartEasingFunctionBlock"]
+- ["C6Charts19AnimatedZoomViewJob", "ChartViewBase"]
+- ["C6Charts19AnimatedZoomViewJob", "Double"]
+- ["C6Charts19AnimatedZoomViewJob", "TimeInterval"]
+- ["C6Charts19AnimatedZoomViewJob", "Transformer"]
+- ["C6Charts19AnimatedZoomViewJob", "ViewPortHandler"]
+- ["C6Charts19AnimatedZoomViewJob", "YAxis"]
+- ["C6Charts19AnimatedZoomViewJob", "animationEnd"]
+- ["C6Charts19AnimatedZoomViewJob", "animationUpdate"]
+- ["C6Charts19AnimatedZoomViewJob", "deinit"]
+- ["C6Charts19AnimatedZoomViewJob", "init"]
+- !private ["C6Charts19AnimatedZoomViewJob", "phase"]
+- ["C6Charts19AnimatedZoomViewJob", "scaleX"]
+- ["C6Charts19AnimatedZoomViewJob", "scaleY"]
+- !private ["C6Charts19AnimatedZoomViewJob", "transformer"]
+- !private ["C6Charts19AnimatedZoomViewJob", "view"]
+- !private ["C6Charts19AnimatedZoomViewJob", "viewPortHandler"]
+- ["C6Charts19AnimatedZoomViewJob", "xAxisRange"]
+- !private ["C6Charts19AnimatedZoomViewJob", "xOrigin"]
+- ["C6Charts19AnimatedZoomViewJob", "yAxis"]
+- !private ["C6Charts19AnimatedZoomViewJob", "yOrigin"]
+- ["C6Charts19AnimatedZoomViewJob", "zoomCenterX"]
+- ["C6Charts19AnimatedZoomViewJob", "zoomCenterY"]
+- ["C6Charts19AnimatedZoomViewJob", "zoomOriginX"]
+- ["C6Charts19AnimatedZoomViewJob", "zoomOriginY"]
+- !private ["P6Charts16AnimatorDelegate", "calculateOffsets"]
+- !private ["P6Charts16AnimatorDelegate", "setNeedsDisplay"]
+- !private ["Ps9AnyObject", "CGFloat"]
+- !private ["Ps9AnyObject", "CGPoint"]
+- ["Ps9AnyObject", "animationEnd"]
+- ["Ps9AnyObject", "animationUpdate"]
+- !private ["Ps9AnyObject", "axisRange"]
+- !private ["Ps9AnyObject", "calculateOffsets"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "phase"]
+- !private ["Ps9AnyObject", "pointValueToPixel"]
+- !private ["Ps9AnyObject", "refresh"]
+- ["Ps9AnyObject", "scaleX"]
+- ["Ps9AnyObject", "scaleY"]
+- !private ["Ps9AnyObject", "setNeedsDisplay"]
+- !private ["Ps9AnyObject", "setZoom"]
+- !private ["Ps9AnyObject", "transformer"]
+- !private ["Ps9AnyObject", "translate"]
+- !private ["Ps9AnyObject", "view"]
+- !private ["Ps9AnyObject", "viewPortHandler"]
+- ["Ps9AnyObject", "xAxisRange"]
+- !private ["Ps9AnyObject", "xOrigin"]
+- ["Ps9AnyObject", "yAxis"]
+- !private ["Ps9AnyObject", "yOrigin"]
+- ["Ps9AnyObject", "zoomCenterX"]
+- ["Ps9AnyObject", "zoomCenterY"]
+- ["Ps9AnyObject", "zoomOriginX"]
+- ["Ps9AnyObject", "zoomOriginY"]
+- ["Ps9AnyObject", ""]
+- !private ["C6Charts8AxisBase", "axisRange"]
+- !private ["C6Charts20BarLineChartViewBase", "calculateOffsets"]
+- ["C6Charts20BarLineChartViewBase", "deinit"]
+- !private ["P6Charts43BarLineScatterCandleBubbleChartDataProvider", "calculateOffsets"]
+- !private ["Ps19BinaryFloatingPoint", "init"]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "calculateOffsets"]
+- !private ["PSo15CALayerDelegate", "setNeedsDisplay"]
+- ["VSC17CGAffineTransform", "deinit"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["V12CoreGraphics7CGFloat", "init"]
+- ["VSC7CGPoint", "deinit"]
+- !private ["VSC7CGPoint", "init"]
+- !private ["Ps7CVarArg", "CGFloat"]
+- !private ["Ps7CVarArg", "CGPoint"]
+- ["Ps7CVarArg", "animationEnd"]
+- ["Ps7CVarArg", "animationUpdate"]
+- !private ["Ps7CVarArg", "axisRange"]
+- !private ["Ps7CVarArg", "calculateOffsets"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "phase"]
+- !private ["Ps7CVarArg", "pointValueToPixel"]
+- !private ["Ps7CVarArg", "refresh"]
+- ["Ps7CVarArg", "scaleX"]
+- ["Ps7CVarArg", "scaleY"]
+- !private ["Ps7CVarArg", "setNeedsDisplay"]
+- !private ["Ps7CVarArg", "setZoom"]
+- !private ["Ps7CVarArg", "transformer"]
+- !private ["Ps7CVarArg", "translate"]
+- !private ["Ps7CVarArg", "view"]
+- !private ["Ps7CVarArg", "viewPortHandler"]
+- ["Ps7CVarArg", "xAxisRange"]
+- !private ["Ps7CVarArg", "xOrigin"]
+- ["Ps7CVarArg", "yAxis"]
+- !private ["Ps7CVarArg", "yOrigin"]
+- ["Ps7CVarArg", "zoomCenterX"]
+- ["Ps7CVarArg", "zoomCenterY"]
+- ["Ps7CVarArg", "zoomOriginX"]
+- ["Ps7CVarArg", "zoomOriginY"]
+- ["Ps7CVarArg", ""]
+- !private ["P6Charts17ChartDataProvider", "calculateOffsets"]
+- !private ["P6Charts17ChartDataProvider", "setNeedsDisplay"]
+- !private ["C6Charts13ChartViewBase", "calculateOffsets"]
+- ["C6Charts13ChartViewBase", "deinit"]
+- !private ["C6Charts13ChartViewBase", "setNeedsDisplay"]
+- !private ["Ps10Comparable", "init"]
+- !private ["C6Charts13ComponentBase", "axisRange"]
+- !private ["Ps28CustomDebugStringConvertible", "CGFloat"]
+- !private ["Ps28CustomDebugStringConvertible", "CGPoint"]
+- ["Ps28CustomDebugStringConvertible", "animationEnd"]
+- ["Ps28CustomDebugStringConvertible", "animationUpdate"]
+- !private ["Ps28CustomDebugStringConvertible", "axisRange"]
+- !private ["Ps28CustomDebugStringConvertible", "calculateOffsets"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "phase"]
+- !private ["Ps28CustomDebugStringConvertible", "pointValueToPixel"]
+- !private ["Ps28CustomDebugStringConvertible", "refresh"]
+- ["Ps28CustomDebugStringConvertible", "scaleX"]
+- ["Ps28CustomDebugStringConvertible", "scaleY"]
+- !private ["Ps28CustomDebugStringConvertible", "setNeedsDisplay"]
+- !private ["Ps28CustomDebugStringConvertible", "setZoom"]
+- !private ["Ps28CustomDebugStringConvertible", "transformer"]
+- !private ["Ps28CustomDebugStringConvertible", "translate"]
+- !private ["Ps28CustomDebugStringConvertible", "view"]
+- !private ["Ps28CustomDebugStringConvertible", "viewPortHandler"]
+- ["Ps28CustomDebugStringConvertible", "xAxisRange"]
+- !private ["Ps28CustomDebugStringConvertible", "xOrigin"]
+- ["Ps28CustomDebugStringConvertible", "yAxis"]
+- !private ["Ps28CustomDebugStringConvertible", "yOrigin"]
+- ["Ps28CustomDebugStringConvertible", "zoomCenterX"]
+- ["Ps28CustomDebugStringConvertible", "zoomCenterY"]
+- ["Ps28CustomDebugStringConvertible", "zoomOriginX"]
+- ["Ps28CustomDebugStringConvertible", "zoomOriginY"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "CGFloat"]
+- !private ["Ps23CustomStringConvertible", "CGPoint"]
+- ["Ps23CustomStringConvertible", "animationEnd"]
+- ["Ps23CustomStringConvertible", "animationUpdate"]
+- !private ["Ps23CustomStringConvertible", "axisRange"]
+- !private ["Ps23CustomStringConvertible", "calculateOffsets"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "phase"]
+- !private ["Ps23CustomStringConvertible", "pointValueToPixel"]
+- !private ["Ps23CustomStringConvertible", "refresh"]
+- ["Ps23CustomStringConvertible", "scaleX"]
+- ["Ps23CustomStringConvertible", "scaleY"]
+- !private ["Ps23CustomStringConvertible", "setNeedsDisplay"]
+- !private ["Ps23CustomStringConvertible", "setZoom"]
+- !private ["Ps23CustomStringConvertible", "transformer"]
+- !private ["Ps23CustomStringConvertible", "translate"]
+- !private ["Ps23CustomStringConvertible", "view"]
+- !private ["Ps23CustomStringConvertible", "viewPortHandler"]
+- ["Ps23CustomStringConvertible", "xAxisRange"]
+- !private ["Ps23CustomStringConvertible", "xOrigin"]
+- ["Ps23CustomStringConvertible", "yAxis"]
+- !private ["Ps23CustomStringConvertible", "yOrigin"]
+- ["Ps23CustomStringConvertible", "zoomCenterX"]
+- ["Ps23CustomStringConvertible", "zoomCenterY"]
+- ["Ps23CustomStringConvertible", "zoomOriginX"]
+- ["Ps23CustomStringConvertible", "zoomOriginY"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CGFloat"]
+- !private ["Ps9Equatable", "CGPoint"]
+- ["Ps9Equatable", "animationEnd"]
+- ["Ps9Equatable", "animationUpdate"]
+- !private ["Ps9Equatable", "axisRange"]
+- !private ["Ps9Equatable", "calculateOffsets"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "phase"]
+- !private ["Ps9Equatable", "pointValueToPixel"]
+- !private ["Ps9Equatable", "refresh"]
+- ["Ps9Equatable", "scaleX"]
+- ["Ps9Equatable", "scaleY"]
+- !private ["Ps9Equatable", "setNeedsDisplay"]
+- !private ["Ps9Equatable", "setZoom"]
+- !private ["Ps9Equatable", "transformer"]
+- !private ["Ps9Equatable", "translate"]
+- !private ["Ps9Equatable", "view"]
+- !private ["Ps9Equatable", "viewPortHandler"]
+- ["Ps9Equatable", "xAxisRange"]
+- !private ["Ps9Equatable", "xOrigin"]
+- ["Ps9Equatable", "yAxis"]
+- !private ["Ps9Equatable", "yOrigin"]
+- ["Ps9Equatable", "zoomCenterX"]
+- ["Ps9Equatable", "zoomCenterY"]
+- ["Ps9Equatable", "zoomOriginX"]
+- ["Ps9Equatable", "zoomOriginY"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- !private ["Ps13FloatingPoint", "init"]
+- !private ["Ps8Hashable", "CGFloat"]
+- !private ["Ps8Hashable", "CGPoint"]
+- ["Ps8Hashable", "animationEnd"]
+- ["Ps8Hashable", "animationUpdate"]
+- !private ["Ps8Hashable", "axisRange"]
+- !private ["Ps8Hashable", "calculateOffsets"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "phase"]
+- !private ["Ps8Hashable", "pointValueToPixel"]
+- !private ["Ps8Hashable", "refresh"]
+- ["Ps8Hashable", "scaleX"]
+- ["Ps8Hashable", "scaleY"]
+- !private ["Ps8Hashable", "setNeedsDisplay"]
+- !private ["Ps8Hashable", "setZoom"]
+- !private ["Ps8Hashable", "transformer"]
+- !private ["Ps8Hashable", "translate"]
+- !private ["Ps8Hashable", "view"]
+- !private ["Ps8Hashable", "viewPortHandler"]
+- ["Ps8Hashable", "xAxisRange"]
+- !private ["Ps8Hashable", "xOrigin"]
+- ["Ps8Hashable", "yAxis"]
+- !private ["Ps8Hashable", "yOrigin"]
+- ["Ps8Hashable", "zoomCenterX"]
+- ["Ps8Hashable", "zoomCenterY"]
+- ["Ps8Hashable", "zoomOriginX"]
+- ["Ps8Hashable", "zoomOriginY"]
+- ["Ps8Hashable", ""]
+- !private ["PSo8NSCoding", "calculateOffsets"]
+- !private ["PSo8NSCoding", "setNeedsDisplay"]
+- !private ["CSo8NSObject", "BarLineChartViewBase"]
+- ["CSo8NSObject", "CGFloat"]
+- !private ["CSo8NSObject", "CGPoint"]
+- ["CSo8NSObject", "ChartEasingFunctionBlock"]
+- ["CSo8NSObject", "ChartViewBase"]
+- ["CSo8NSObject", "Double"]
+- ["CSo8NSObject", "TimeInterval"]
+- ["CSo8NSObject", "Transformer"]
+- ["CSo8NSObject", "ViewPortHandler"]
+- ["CSo8NSObject", "YAxis"]
+- ["CSo8NSObject", "animationEnd"]
+- ["CSo8NSObject", "animationUpdate"]
+- !private ["CSo8NSObject", "axisRange"]
+- !private ["CSo8NSObject", "calculateOffsets"]
+- !private ["CSo8NSObject", "phase"]
+- !private ["CSo8NSObject", "pointValueToPixel"]
+- !private ["CSo8NSObject", "refresh"]
+- ["CSo8NSObject", "scaleX"]
+- ["CSo8NSObject", "scaleY"]
+- !private ["CSo8NSObject", "setNeedsDisplay"]
+- !private ["CSo8NSObject", "setZoom"]
+- !private ["CSo8NSObject", "transformer"]
+- !private ["CSo8NSObject", "translate"]
+- !private ["CSo8NSObject", "view"]
+- !private ["CSo8NSObject", "viewPortHandler"]
+- ["CSo8NSObject", "xAxisRange"]
+- !private ["CSo8NSObject", "xOrigin"]
+- ["CSo8NSObject", "yAxis"]
+- !private ["CSo8NSObject", "yOrigin"]
+- ["CSo8NSObject", "zoomCenterX"]
+- ["CSo8NSObject", "zoomCenterY"]
+- ["CSo8NSObject", "zoomOriginX"]
+- ["CSo8NSObject", "zoomOriginY"]
+- !private ["PSo16NSObjectProtocol", "CGFloat"]
+- !private ["PSo16NSObjectProtocol", "CGPoint"]
+- ["PSo16NSObjectProtocol", "animationEnd"]
+- ["PSo16NSObjectProtocol", "animationUpdate"]
+- !private ["PSo16NSObjectProtocol", "axisRange"]
+- !private ["PSo16NSObjectProtocol", "calculateOffsets"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "phase"]
+- !private ["PSo16NSObjectProtocol", "pointValueToPixel"]
+- !private ["PSo16NSObjectProtocol", "refresh"]
+- ["PSo16NSObjectProtocol", "scaleX"]
+- ["PSo16NSObjectProtocol", "scaleY"]
+- !private ["PSo16NSObjectProtocol", "setNeedsDisplay"]
+- !private ["PSo16NSObjectProtocol", "setZoom"]
+- !private ["PSo16NSObjectProtocol", "transformer"]
+- !private ["PSo16NSObjectProtocol", "translate"]
+- !private ["PSo16NSObjectProtocol", "view"]
+- !private ["PSo16NSObjectProtocol", "viewPortHandler"]
+- ["PSo16NSObjectProtocol", "xAxisRange"]
+- !private ["PSo16NSObjectProtocol", "xOrigin"]
+- ["PSo16NSObjectProtocol", "yAxis"]
+- !private ["PSo16NSObjectProtocol", "yOrigin"]
+- ["PSo16NSObjectProtocol", "zoomCenterX"]
+- ["PSo16NSObjectProtocol", "zoomCenterY"]
+- ["PSo16NSObjectProtocol", "zoomOriginX"]
+- ["PSo16NSObjectProtocol", "zoomOriginY"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C6Charts8NSUIView", "calculateOffsets"]
+- !private ["C6Charts8NSUIView", "setNeedsDisplay"]
+- ["Os5Never", "deinit"]
+- ["Sq", "deinit"]
+- !private ["Ps12SignedNumber", "init"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- !private ["Ps10Strideable", "init"]
+- ["C6Charts11Transformer", "deinit"]
+- !private ["C6Charts11Transformer", "pointValueToPixel"]
+- !private ["PSo29UIAccessibilityIdentification", "calculateOffsets"]
+- !private ["PSo29UIAccessibilityIdentification", "setNeedsDisplay"]
+- !private ["PSo12UIAppearance", "calculateOffsets"]
+- !private ["PSo12UIAppearance", "setNeedsDisplay"]
+- !private ["PSo21UIAppearanceContainer", "calculateOffsets"]
+- !private ["PSo21UIAppearanceContainer", "setNeedsDisplay"]
+- !private ["PSo17UICoordinateSpace", "calculateOffsets"]
+- !private ["PSo17UICoordinateSpace", "setNeedsDisplay"]
+- !private ["PSo13UIDynamicItem", "calculateOffsets"]
+- !private ["PSo13UIDynamicItem", "setNeedsDisplay"]
+- !private ["PSo18UIFocusEnvironment", "calculateOffsets"]
+- !private ["PSo18UIFocusEnvironment", "setNeedsDisplay"]
+- !private ["PSo11UIFocusItem", "calculateOffsets"]
+- !private ["PSo11UIFocusItem", "setNeedsDisplay"]
+- !private ["PSo27UIGestureRecognizerDelegate", "calculateOffsets"]
+- !private ["CSo11UIResponder", "calculateOffsets"]
+- !private ["CSo11UIResponder", "setNeedsDisplay"]
+- !private ["PSo30UIResponderStandardEditActions", "calculateOffsets"]
+- !private ["PSo30UIResponderStandardEditActions", "setNeedsDisplay"]
+- !private ["PSo18UITraitEnvironment", "calculateOffsets"]
+- !private ["PSo18UITraitEnvironment", "setNeedsDisplay"]
+- !private ["CSo6UIView", "calculateOffsets"]
+- !private ["CSo6UIView", "setNeedsDisplay"]
+- ["Su", "deinit"]
+- ["C6Charts15ViewPortHandler", "deinit"]
+- !private ["C6Charts15ViewPortHandler", "refresh"]
+- !private ["C6Charts15ViewPortHandler", "scaleX"]
+- !private ["C6Charts15ViewPortHandler", "scaleY"]
+- !private ["C6Charts15ViewPortHandler", "setZoom"]
+- !private ["C6Charts15ViewPortHandler", "translate"]
+- !private ["C6Charts11ViewPortJob", "BarLineChartViewBase"]
+- ["C6Charts11ViewPortJob", "CGFloat"]
+- !private ["C6Charts11ViewPortJob", "CGPoint"]
+- ["C6Charts11ViewPortJob", "ChartEasingFunctionBlock"]
+- ["C6Charts11ViewPortJob", "ChartViewBase"]
+- ["C6Charts11ViewPortJob", "Double"]
+- ["C6Charts11ViewPortJob", "TimeInterval"]
+- ["C6Charts11ViewPortJob", "Transformer"]
+- ["C6Charts11ViewPortJob", "ViewPortHandler"]
+- ["C6Charts11ViewPortJob", "YAxis"]
+- ["C6Charts11ViewPortJob", "animationEnd"]
+- ["C6Charts11ViewPortJob", "animationUpdate"]
+- !private ["C6Charts11ViewPortJob", "phase"]
+- ["C6Charts11ViewPortJob", "scaleX"]
+- ["C6Charts11ViewPortJob", "scaleY"]
+- !private ["C6Charts11ViewPortJob", "transformer"]
+- !private ["C6Charts11ViewPortJob", "view"]
+- !private ["C6Charts11ViewPortJob", "viewPortHandler"]
+- ["C6Charts11ViewPortJob", "xAxisRange"]
+- !private ["C6Charts11ViewPortJob", "xOrigin"]
+- ["C6Charts11ViewPortJob", "yAxis"]
+- !private ["C6Charts11ViewPortJob", "yOrigin"]
+- ["C6Charts11ViewPortJob", "zoomCenterX"]
+- ["C6Charts11ViewPortJob", "zoomCenterY"]
+- ["C6Charts11ViewPortJob", "zoomOriginX"]
+- ["C6Charts11ViewPortJob", "zoomOriginY"]
+- !private ["C6Charts5YAxis", "axisRange"]
+- ["C6Charts5YAxis", "deinit"]
+- !private ["Ps15_CVarArgAligned", "init"]
+- !private ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "calculateOffsets"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "setNeedsDisplay"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps9_Hashable", "CGFloat"]
+- !private ["Ps9_Hashable", "CGPoint"]
+- ["Ps9_Hashable", "animationEnd"]
+- ["Ps9_Hashable", "animationUpdate"]
+- !private ["Ps9_Hashable", "axisRange"]
+- !private ["Ps9_Hashable", "calculateOffsets"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "phase"]
+- !private ["Ps9_Hashable", "pointValueToPixel"]
+- !private ["Ps9_Hashable", "refresh"]
+- ["Ps9_Hashable", "scaleX"]
+- ["Ps9_Hashable", "scaleY"]
+- !private ["Ps9_Hashable", "setNeedsDisplay"]
+- !private ["Ps9_Hashable", "setZoom"]
+- !private ["Ps9_Hashable", "transformer"]
+- !private ["Ps9_Hashable", "translate"]
+- !private ["Ps9_Hashable", "view"]
+- !private ["Ps9_Hashable", "viewPortHandler"]
+- ["Ps9_Hashable", "xAxisRange"]
+- !private ["Ps9_Hashable", "xOrigin"]
+- ["Ps9_Hashable", "yAxis"]
+- !private ["Ps9_Hashable", "yOrigin"]
+- ["Ps9_Hashable", "zoomCenterX"]
+- ["Ps9_Hashable", "zoomCenterY"]
+- ["Ps9_Hashable", "zoomOriginX"]
+- ["Ps9_Hashable", "zoomOriginY"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- !private "Ps16AbsoluteValuable"
+- "C6Charts19AnimatedViewPortJob"
+- "C6Charts19AnimatedZoomViewJob"
+- !private "P6Charts16AnimatorDelegate"
+- "Ps9AnyObject"
+- !private "C6Charts8AxisBase"
+- "C6Charts20BarLineChartViewBase"
+- !private "P6Charts43BarLineScatterCandleBubbleChartDataProvider"
+- !private "Ps19BinaryFloatingPoint"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- "VSC17CGAffineTransform"
+- "V12CoreGraphics7CGFloat"
+- "VSC7CGPoint"
+- "Ps7CVarArg"
+- !private "P6Charts17ChartDataProvider"
+- "C6Charts13ChartViewBase"
+- !private "Ps10Comparable"
+- !private "C6Charts13ComponentBase"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps25ExpressibleByFloatLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- !private "Ps13FloatingPoint"
+- "Ps8Hashable"
+- !private "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "C6Charts8NSUIView"
+- "Os5Never"
+- "Sq"
+- !private "Ps12SignedNumber"
+- "Vs12StaticString"
+- !private "Ps10Strideable"
+- "C6Charts11Transformer"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- !private "PSo21UIAppearanceContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "PSo27UIGestureRecognizerDelegate"
+- !private "CSo11UIResponder"
+- !private "PSo30UIResponderStandardEditActions"
+- !private "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "Su"
+- "C6Charts15ViewPortHandler"
+- "C6Charts11ViewPortJob"
+- "C6Charts5YAxis"
+- !private "Ps15_CVarArgAligned"
+- !private "Ps22_CVarArgPassedAsDouble"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target Support Files/Charts/Charts-umbrella.h"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/Charts.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "8f3dd0d09e91e785af1ebe09ea86b886"

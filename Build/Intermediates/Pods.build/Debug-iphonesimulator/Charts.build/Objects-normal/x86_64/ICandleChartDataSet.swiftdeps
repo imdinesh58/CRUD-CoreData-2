@@ -1,0 +1,116 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ICandleChartDataSet"
+provides-nominal:
+- "P6Charts19ICandleChartDataSet"
+provides-member:
+- ["P6Charts19ICandleChartDataSet", ""]
+provides-dynamic-lookup:
+- "neutralColor"
+- "isShadowColorSameAsCandle"
+- "isDecreasingFilled"
+- "barSpace"
+- "showCandleBar"
+- "shadowColor"
+- "decreasingColor"
+- "decreasingFilled"
+- "increasingColor"
+- "isIncreasingFilled"
+- "shadowWidth"
+- "shadowColorSameAsCandle"
+- "increasingFilled"
+depends-top-level:
+- "ICandleChartDataSet"
+- "ILineScatterCandleRadarChartDataSet"
+- "Bool"
+- "NSUIColor"
+- "CGFloat"
+depends-member:
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "Bool"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "CGFloat"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "NSUIColor"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "barSpace"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "decreasingColor"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "decreasingFilled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "increasingColor"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "increasingFilled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "isDecreasingFilled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "isIncreasingFilled"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "isShadowColorSameAsCandle"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "neutralColor"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "shadowColor"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "shadowColorSameAsCandle"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "shadowWidth"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", "showCandleBar"]
+- ["P6Charts39IBarLineScatterCandleBubbleChartDataSet", ""]
+- ["P6Charts19ICandleChartDataSet", "Bool"]
+- ["P6Charts19ICandleChartDataSet", "CGFloat"]
+- ["P6Charts19ICandleChartDataSet", "NSUIColor"]
+- ["P6Charts19ICandleChartDataSet", "barSpace"]
+- ["P6Charts19ICandleChartDataSet", "decreasingColor"]
+- ["P6Charts19ICandleChartDataSet", "decreasingFilled"]
+- ["P6Charts19ICandleChartDataSet", "increasingColor"]
+- ["P6Charts19ICandleChartDataSet", "increasingFilled"]
+- ["P6Charts19ICandleChartDataSet", "isDecreasingFilled"]
+- ["P6Charts19ICandleChartDataSet", "isIncreasingFilled"]
+- ["P6Charts19ICandleChartDataSet", "isShadowColorSameAsCandle"]
+- ["P6Charts19ICandleChartDataSet", "neutralColor"]
+- ["P6Charts19ICandleChartDataSet", "shadowColor"]
+- ["P6Charts19ICandleChartDataSet", "shadowColorSameAsCandle"]
+- ["P6Charts19ICandleChartDataSet", "shadowWidth"]
+- ["P6Charts19ICandleChartDataSet", "showCandleBar"]
+- ["P6Charts19ICandleChartDataSet", ""]
+- ["P6Charts13IChartDataSet", "Bool"]
+- ["P6Charts13IChartDataSet", "CGFloat"]
+- ["P6Charts13IChartDataSet", "NSUIColor"]
+- ["P6Charts13IChartDataSet", "barSpace"]
+- ["P6Charts13IChartDataSet", "decreasingColor"]
+- ["P6Charts13IChartDataSet", "decreasingFilled"]
+- ["P6Charts13IChartDataSet", "increasingColor"]
+- ["P6Charts13IChartDataSet", "increasingFilled"]
+- ["P6Charts13IChartDataSet", "isDecreasingFilled"]
+- ["P6Charts13IChartDataSet", "isIncreasingFilled"]
+- ["P6Charts13IChartDataSet", "isShadowColorSameAsCandle"]
+- ["P6Charts13IChartDataSet", "neutralColor"]
+- ["P6Charts13IChartDataSet", "shadowColor"]
+- ["P6Charts13IChartDataSet", "shadowColorSameAsCandle"]
+- ["P6Charts13IChartDataSet", "shadowWidth"]
+- ["P6Charts13IChartDataSet", "showCandleBar"]
+- ["P6Charts13IChartDataSet", ""]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "Bool"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "CGFloat"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "NSUIColor"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "barSpace"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "decreasingColor"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "decreasingFilled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "increasingColor"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "increasingFilled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "isDecreasingFilled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "isIncreasingFilled"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "isShadowColorSameAsCandle"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "neutralColor"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "shadowColor"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "shadowColorSameAsCandle"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "shadowWidth"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", "showCandleBar"]
+- ["P6Charts35ILineScatterCandleRadarChartDataSet", ""]
+depends-nominal:
+- "P6Charts39IBarLineScatterCandleBubbleChartDataSet"
+- "P6Charts19ICandleChartDataSet"
+- "P6Charts13IChartDataSet"
+- "P6Charts35ILineScatterCandleRadarChartDataSet"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target Support Files/Charts/Charts-umbrella.h"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/Charts.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "848273a1239495059fac5bfb86559e10"

@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "f5b84045209c446fee7e8153b48f25e4"
+build_time: [566305364, 169851000]
+inputs:
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/ViewController.swift": [566047803, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/customviewIB.swift": [564498021, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/testViewController.swift": [564485575, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/sampleViewController.swift": [566304942, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/CoreDataSampleApp/AppDelegate.swift": [564042395, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/IBDesignables/Intermediates/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataClass.swift": [566290258, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/IBDesignables/Intermediates/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/Person+CoreDataProperties.swift": [566290258, 0]
+  "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/IBDesignables/Intermediates/CoreDataSampleApp.build/Debug-iphonesimulator/CoreDataSampleApp.build/DerivedSources/CoreDataGenerated/CoreDataSampleApp/CoreDataSampleApp+CoreDataModel.swift": [566290257, 0]

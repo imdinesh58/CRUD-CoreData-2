@@ -1,0 +1,502 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ChartEasingOption"
+- "ChartEasingFunctionBlock"
+- "easingFunctionFromOption"
+- "EasingFunctions"
+provides-nominal:
+- "O6Charts17ChartEasingOption"
+- "V6Charts15EasingFunctions"
+provides-member:
+- ["O6Charts17ChartEasingOption", ""]
+- ["V6Charts15EasingFunctions", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "TernaryPrecedence"
+- "Int"
+- "sin"
+- "EasingFunctions"
+- "Double"
+- "sqrt"
+- "ChartEasingOption"
+- "cos"
+- "pow"
+- "asin"
+- "/"
+- "+"
+- "ChartEasingFunctionBlock"
+- "easingFunctionFromOption"
+- "<"
+- "TimeInterval"
+- "*"
+- "-"
+- !private "~="
+- "=="
+- "AssignmentPrecedence"
+- "*="
+- "-="
+depends-member:
+- ["Ps16AbsoluteValuable", "RawValue"]
+- ["Ps16AbsoluteValuable", "Stride"]
+- ["Ps16AbsoluteValuable", "init"]
+- ["Ps16AbsoluteValuable", "pi"]
+- ["Ps19BinaryFloatingPoint", "RawValue"]
+- ["Ps19BinaryFloatingPoint", "Stride"]
+- ["Ps19BinaryFloatingPoint", "init"]
+- ["Ps19BinaryFloatingPoint", "pi"]
+- !private ["Ps17BitwiseOperations", "Stride"]
+- !private ["Ps17BitwiseOperations", "hashValue"]
+- ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["V12CoreGraphics7CGFloat", "Stride"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["Ps7CVarArg", "RawValue"]
+- ["Ps7CVarArg", "Stride"]
+- !private ["Ps7CVarArg", "hashValue"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "pi"]
+- ["O6Charts17ChartEasingOption", "RawValue"]
+- ["O6Charts17ChartEasingOption", "_toAnyHashable"]
+- ["O6Charts17ChartEasingOption", "deinit"]
+- ["O6Charts17ChartEasingOption", "easeInBack"]
+- ["O6Charts17ChartEasingOption", "easeInBounce"]
+- ["O6Charts17ChartEasingOption", "easeInCirc"]
+- ["O6Charts17ChartEasingOption", "easeInCubic"]
+- ["O6Charts17ChartEasingOption", "easeInElastic"]
+- ["O6Charts17ChartEasingOption", "easeInExpo"]
+- ["O6Charts17ChartEasingOption", "easeInOutBack"]
+- ["O6Charts17ChartEasingOption", "easeInOutBounce"]
+- ["O6Charts17ChartEasingOption", "easeInOutCirc"]
+- ["O6Charts17ChartEasingOption", "easeInOutCubic"]
+- ["O6Charts17ChartEasingOption", "easeInOutElastic"]
+- ["O6Charts17ChartEasingOption", "easeInOutExpo"]
+- ["O6Charts17ChartEasingOption", "easeInOutQuad"]
+- ["O6Charts17ChartEasingOption", "easeInOutQuart"]
+- ["O6Charts17ChartEasingOption", "easeInOutQuint"]
+- ["O6Charts17ChartEasingOption", "easeInOutSine"]
+- ["O6Charts17ChartEasingOption", "easeInQuad"]
+- ["O6Charts17ChartEasingOption", "easeInQuart"]
+- ["O6Charts17ChartEasingOption", "easeInQuint"]
+- ["O6Charts17ChartEasingOption", "easeInSine"]
+- ["O6Charts17ChartEasingOption", "easeOutBack"]
+- ["O6Charts17ChartEasingOption", "easeOutBounce"]
+- ["O6Charts17ChartEasingOption", "easeOutCirc"]
+- ["O6Charts17ChartEasingOption", "easeOutCubic"]
+- ["O6Charts17ChartEasingOption", "easeOutElastic"]
+- ["O6Charts17ChartEasingOption", "easeOutExpo"]
+- ["O6Charts17ChartEasingOption", "easeOutQuad"]
+- ["O6Charts17ChartEasingOption", "easeOutQuart"]
+- ["O6Charts17ChartEasingOption", "easeOutQuint"]
+- ["O6Charts17ChartEasingOption", "easeOutSine"]
+- ["O6Charts17ChartEasingOption", "hashValue"]
+- ["O6Charts17ChartEasingOption", "init"]
+- ["O6Charts17ChartEasingOption", "linear"]
+- ["O6Charts17ChartEasingOption", "rawValue"]
+- !private ["Vs11ClosedRange", "deinit"]
+- ["Ps10Comparable", "RawValue"]
+- ["Ps10Comparable", "Stride"]
+- !private ["Ps10Comparable", "hashValue"]
+- ["Ps10Comparable", "init"]
+- ["Ps10Comparable", "pi"]
+- !private ["Vs20CountableClosedRange", "deinit"]
+- !private ["Vs14CountableRange", "deinit"]
+- ["Ps28CustomDebugStringConvertible", "RawValue"]
+- ["Ps28CustomDebugStringConvertible", "Stride"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "pi"]
+- ["Ps29CustomPlaygroundQuickLookable", "RawValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "Stride"]
+- ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "hashValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- ["Ps29CustomPlaygroundQuickLookable", "pi"]
+- ["Ps17CustomReflectable", "RawValue"]
+- ["Ps17CustomReflectable", "Stride"]
+- ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "hashValue"]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps17CustomReflectable", "pi"]
+- ["Ps23CustomStringConvertible", "RawValue"]
+- ["Ps23CustomStringConvertible", "Stride"]
+- ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "hashValue"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "pi"]
+- ["VSC7Decimal", "deinit"]
+- ["O8Dispatch20DispatchTimeInterval", "deinit"]
+- ["Sd", "RawValue"]
+- ["Sd", "Stride"]
+- ["Sd", "deinit"]
+- ["Sd", "init"]
+- ["Sd", "pi"]
+- ["V6Charts15EasingFunctions", "Double"]
+- ["V6Charts15EasingFunctions", "EaseInBack"]
+- ["V6Charts15EasingFunctions", "EaseInBounce"]
+- ["V6Charts15EasingFunctions", "EaseInCirc"]
+- ["V6Charts15EasingFunctions", "EaseInCubic"]
+- ["V6Charts15EasingFunctions", "EaseInElastic"]
+- ["V6Charts15EasingFunctions", "EaseInExpo"]
+- ["V6Charts15EasingFunctions", "EaseInOutBack"]
+- ["V6Charts15EasingFunctions", "EaseInOutBounce"]
+- ["V6Charts15EasingFunctions", "EaseInOutCirc"]
+- ["V6Charts15EasingFunctions", "EaseInOutCubic"]
+- ["V6Charts15EasingFunctions", "EaseInOutElastic"]
+- ["V6Charts15EasingFunctions", "EaseInOutExpo"]
+- ["V6Charts15EasingFunctions", "EaseInOutQuad"]
+- ["V6Charts15EasingFunctions", "EaseInOutQuart"]
+- ["V6Charts15EasingFunctions", "EaseInOutQuint"]
+- ["V6Charts15EasingFunctions", "EaseInOutSine"]
+- ["V6Charts15EasingFunctions", "EaseInQuad"]
+- ["V6Charts15EasingFunctions", "EaseInQuart"]
+- ["V6Charts15EasingFunctions", "EaseInQuint"]
+- ["V6Charts15EasingFunctions", "EaseInSine"]
+- ["V6Charts15EasingFunctions", "EaseOutBack"]
+- ["V6Charts15EasingFunctions", "EaseOutBounce"]
+- ["V6Charts15EasingFunctions", "EaseOutCirc"]
+- ["V6Charts15EasingFunctions", "EaseOutCubic"]
+- ["V6Charts15EasingFunctions", "EaseOutElastic"]
+- ["V6Charts15EasingFunctions", "EaseOutExpo"]
+- ["V6Charts15EasingFunctions", "EaseOutQuad"]
+- ["V6Charts15EasingFunctions", "EaseOutQuart"]
+- ["V6Charts15EasingFunctions", "EaseOutQuint"]
+- ["V6Charts15EasingFunctions", "EaseOutSine"]
+- ["V6Charts15EasingFunctions", "Linear"]
+- ["V6Charts15EasingFunctions", "TimeInterval"]
+- ["V6Charts15EasingFunctions", "asin"]
+- ["V6Charts15EasingFunctions", "cos"]
+- ["V6Charts15EasingFunctions", "init"]
+- ["V6Charts15EasingFunctions", "pow"]
+- ["V6Charts15EasingFunctions", "sin"]
+- ["V6Charts15EasingFunctions", "sqrt"]
+- ["Ps9Equatable", "RawValue"]
+- ["Ps9Equatable", "Stride"]
+- ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "_toAnyHashable"]
+- ["Ps9Equatable", "easeInBack"]
+- ["Ps9Equatable", "easeInBounce"]
+- ["Ps9Equatable", "easeInCirc"]
+- ["Ps9Equatable", "easeInCubic"]
+- ["Ps9Equatable", "easeInElastic"]
+- ["Ps9Equatable", "easeInExpo"]
+- ["Ps9Equatable", "easeInOutBack"]
+- ["Ps9Equatable", "easeInOutBounce"]
+- ["Ps9Equatable", "easeInOutCirc"]
+- ["Ps9Equatable", "easeInOutCubic"]
+- ["Ps9Equatable", "easeInOutElastic"]
+- ["Ps9Equatable", "easeInOutExpo"]
+- ["Ps9Equatable", "easeInOutQuad"]
+- ["Ps9Equatable", "easeInOutQuart"]
+- ["Ps9Equatable", "easeInOutQuint"]
+- ["Ps9Equatable", "easeInOutSine"]
+- ["Ps9Equatable", "easeInQuad"]
+- ["Ps9Equatable", "easeInQuart"]
+- ["Ps9Equatable", "easeInQuint"]
+- ["Ps9Equatable", "easeInSine"]
+- ["Ps9Equatable", "easeOutBack"]
+- ["Ps9Equatable", "easeOutBounce"]
+- ["Ps9Equatable", "easeOutCirc"]
+- ["Ps9Equatable", "easeOutCubic"]
+- ["Ps9Equatable", "easeOutElastic"]
+- ["Ps9Equatable", "easeOutExpo"]
+- ["Ps9Equatable", "easeOutQuad"]
+- ["Ps9Equatable", "easeOutQuart"]
+- ["Ps9Equatable", "easeOutQuint"]
+- ["Ps9Equatable", "easeOutSine"]
+- ["Ps9Equatable", "hashValue"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "linear"]
+- ["Ps9Equatable", "pi"]
+- ["Ps9Equatable", "rawValue"]
+- ["Ps9Equatable", ""]
+- ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps25ExpressibleByFloatLiteral", "RawValue"]
+- ["Ps25ExpressibleByFloatLiteral", "Stride"]
+- ["Ps25ExpressibleByFloatLiteral", "init"]
+- ["Ps25ExpressibleByFloatLiteral", "pi"]
+- ["Ps27ExpressibleByIntegerLiteral", "RawValue"]
+- ["Ps27ExpressibleByIntegerLiteral", "Stride"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "hashValue"]
+- ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Ps27ExpressibleByIntegerLiteral", "pi"]
+- ["Sf", "Stride"]
+- ["Sf", "deinit"]
+- ["Vs7Float80", "Stride"]
+- ["Vs7Float80", "deinit"]
+- ["Ps13FloatingPoint", "RawValue"]
+- ["Ps13FloatingPoint", "Stride"]
+- ["Ps13FloatingPoint", "init"]
+- ["Ps13FloatingPoint", "pi"]
+- ["Ps8Hashable", "RawValue"]
+- ["Ps8Hashable", "Stride"]
+- ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "_toAnyHashable"]
+- ["Ps8Hashable", "easeInBack"]
+- ["Ps8Hashable", "easeInBounce"]
+- ["Ps8Hashable", "easeInCirc"]
+- ["Ps8Hashable", "easeInCubic"]
+- ["Ps8Hashable", "easeInElastic"]
+- ["Ps8Hashable", "easeInExpo"]
+- ["Ps8Hashable", "easeInOutBack"]
+- ["Ps8Hashable", "easeInOutBounce"]
+- ["Ps8Hashable", "easeInOutCirc"]
+- ["Ps8Hashable", "easeInOutCubic"]
+- ["Ps8Hashable", "easeInOutElastic"]
+- ["Ps8Hashable", "easeInOutExpo"]
+- ["Ps8Hashable", "easeInOutQuad"]
+- ["Ps8Hashable", "easeInOutQuart"]
+- ["Ps8Hashable", "easeInOutQuint"]
+- ["Ps8Hashable", "easeInOutSine"]
+- ["Ps8Hashable", "easeInQuad"]
+- ["Ps8Hashable", "easeInQuart"]
+- ["Ps8Hashable", "easeInQuint"]
+- ["Ps8Hashable", "easeInSine"]
+- ["Ps8Hashable", "easeOutBack"]
+- ["Ps8Hashable", "easeOutBounce"]
+- ["Ps8Hashable", "easeOutCirc"]
+- ["Ps8Hashable", "easeOutCubic"]
+- ["Ps8Hashable", "easeOutElastic"]
+- ["Ps8Hashable", "easeOutExpo"]
+- ["Ps8Hashable", "easeOutQuad"]
+- ["Ps8Hashable", "easeOutQuart"]
+- ["Ps8Hashable", "easeOutQuint"]
+- ["Ps8Hashable", "easeOutSine"]
+- ["Ps8Hashable", "hashValue"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "linear"]
+- ["Ps8Hashable", "pi"]
+- ["Ps8Hashable", "rawValue"]
+- ["Ps8Hashable", ""]
+- !private ["Si", "Stride"]
+- ["Si", "deinit"]
+- !private ["Si", "hashValue"]
+- ["Vs5Int16", "deinit"]
+- ["Vs5Int32", "deinit"]
+- ["Vs5Int64", "deinit"]
+- ["Vs4Int8", "deinit"]
+- !private ["Ps7Integer", "Stride"]
+- !private ["Ps7Integer", "hashValue"]
+- !private ["Ps17IntegerArithmetic", "Stride"]
+- !private ["Ps17IntegerArithmetic", "hashValue"]
+- ["Ps25LosslessStringConvertible", "RawValue"]
+- ["Ps25LosslessStringConvertible", "Stride"]
+- ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps25LosslessStringConvertible", "pi"]
+- ["V10Foundation11Measurement", "deinit"]
+- !private ["Ps10MirrorPath", "Stride"]
+- !private ["Ps10MirrorPath", "hashValue"]
+- ["Sq", "deinit"]
+- !private ["Vs5Range", "deinit"]
+- ["Ps16RawRepresentable", "RawValue"]
+- ["Ps16RawRepresentable", "_toAnyHashable"]
+- ["Ps16RawRepresentable", "easeInBack"]
+- ["Ps16RawRepresentable", "easeInBounce"]
+- ["Ps16RawRepresentable", "easeInCirc"]
+- ["Ps16RawRepresentable", "easeInCubic"]
+- ["Ps16RawRepresentable", "easeInElastic"]
+- ["Ps16RawRepresentable", "easeInExpo"]
+- ["Ps16RawRepresentable", "easeInOutBack"]
+- ["Ps16RawRepresentable", "easeInOutBounce"]
+- ["Ps16RawRepresentable", "easeInOutCirc"]
+- ["Ps16RawRepresentable", "easeInOutCubic"]
+- ["Ps16RawRepresentable", "easeInOutElastic"]
+- ["Ps16RawRepresentable", "easeInOutExpo"]
+- ["Ps16RawRepresentable", "easeInOutQuad"]
+- ["Ps16RawRepresentable", "easeInOutQuart"]
+- ["Ps16RawRepresentable", "easeInOutQuint"]
+- ["Ps16RawRepresentable", "easeInOutSine"]
+- ["Ps16RawRepresentable", "easeInQuad"]
+- ["Ps16RawRepresentable", "easeInQuart"]
+- ["Ps16RawRepresentable", "easeInQuint"]
+- ["Ps16RawRepresentable", "easeInSine"]
+- ["Ps16RawRepresentable", "easeOutBack"]
+- ["Ps16RawRepresentable", "easeOutBounce"]
+- ["Ps16RawRepresentable", "easeOutCirc"]
+- ["Ps16RawRepresentable", "easeOutCubic"]
+- ["Ps16RawRepresentable", "easeOutElastic"]
+- ["Ps16RawRepresentable", "easeOutExpo"]
+- ["Ps16RawRepresentable", "easeOutQuad"]
+- ["Ps16RawRepresentable", "easeOutQuart"]
+- ["Ps16RawRepresentable", "easeOutQuint"]
+- ["Ps16RawRepresentable", "easeOutSine"]
+- ["Ps16RawRepresentable", "hashValue"]
+- ["Ps16RawRepresentable", "init"]
+- ["Ps16RawRepresentable", "linear"]
+- ["Ps16RawRepresentable", "rawValue"]
+- ["Ps16RawRepresentable", ""]
+- !private ["Ps13SignedInteger", "Stride"]
+- !private ["Ps13SignedInteger", "hashValue"]
+- ["Ps12SignedNumber", "RawValue"]
+- ["Ps12SignedNumber", "Stride"]
+- !private ["Ps12SignedNumber", "hashValue"]
+- ["Ps12SignedNumber", "init"]
+- ["Ps12SignedNumber", "pi"]
+- ["Ps10Strideable", "RawValue"]
+- ["Ps10Strideable", "Stride"]
+- !private ["Ps10Strideable", "hashValue"]
+- ["Ps10Strideable", "init"]
+- ["Ps10Strideable", "pi"]
+- ["Su", "deinit"]
+- ["Vs6UInt16", "deinit"]
+- ["Vs6UInt32", "deinit"]
+- ["Vs6UInt64", "deinit"]
+- ["Vs5UInt8", "deinit"]
+- ["Sp", "deinit"]
+- ["SP", "deinit"]
+- ["Ps15_CVarArgAligned", "RawValue"]
+- ["Ps15_CVarArgAligned", "Stride"]
+- ["Ps15_CVarArgAligned", "init"]
+- ["Ps15_CVarArgAligned", "pi"]
+- ["Ps22_CVarArgPassedAsDouble", "RawValue"]
+- ["Ps22_CVarArgPassedAsDouble", "Stride"]
+- ["Ps22_CVarArgPassedAsDouble", "init"]
+- ["Ps22_CVarArgPassedAsDouble", "pi"]
+- ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps33_ExpressibleByBuiltinFloatLiteral", "RawValue"]
+- ["Ps33_ExpressibleByBuiltinFloatLiteral", "Stride"]
+- ["Ps33_ExpressibleByBuiltinFloatLiteral", "init"]
+- ["Ps33_ExpressibleByBuiltinFloatLiteral", "pi"]
+- ["Ps35_ExpressibleByBuiltinIntegerLiteral", "RawValue"]
+- ["Ps35_ExpressibleByBuiltinIntegerLiteral", "Stride"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "hashValue"]
+- ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- ["Ps35_ExpressibleByBuiltinIntegerLiteral", "pi"]
+- ["Ps9_Hashable", "RawValue"]
+- ["Ps9_Hashable", "Stride"]
+- ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "_toAnyHashable"]
+- ["Ps9_Hashable", "easeInBack"]
+- ["Ps9_Hashable", "easeInBounce"]
+- ["Ps9_Hashable", "easeInCirc"]
+- ["Ps9_Hashable", "easeInCubic"]
+- ["Ps9_Hashable", "easeInElastic"]
+- ["Ps9_Hashable", "easeInExpo"]
+- ["Ps9_Hashable", "easeInOutBack"]
+- ["Ps9_Hashable", "easeInOutBounce"]
+- ["Ps9_Hashable", "easeInOutCirc"]
+- ["Ps9_Hashable", "easeInOutCubic"]
+- ["Ps9_Hashable", "easeInOutElastic"]
+- ["Ps9_Hashable", "easeInOutExpo"]
+- ["Ps9_Hashable", "easeInOutQuad"]
+- ["Ps9_Hashable", "easeInOutQuart"]
+- ["Ps9_Hashable", "easeInOutQuint"]
+- ["Ps9_Hashable", "easeInOutSine"]
+- ["Ps9_Hashable", "easeInQuad"]
+- ["Ps9_Hashable", "easeInQuart"]
+- ["Ps9_Hashable", "easeInQuint"]
+- ["Ps9_Hashable", "easeInSine"]
+- ["Ps9_Hashable", "easeOutBack"]
+- ["Ps9_Hashable", "easeOutBounce"]
+- ["Ps9_Hashable", "easeOutCirc"]
+- ["Ps9_Hashable", "easeOutCubic"]
+- ["Ps9_Hashable", "easeOutElastic"]
+- ["Ps9_Hashable", "easeOutExpo"]
+- ["Ps9_Hashable", "easeOutQuad"]
+- ["Ps9_Hashable", "easeOutQuart"]
+- ["Ps9_Hashable", "easeOutQuint"]
+- ["Ps9_Hashable", "easeOutSine"]
+- ["Ps9_Hashable", "hashValue"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "linear"]
+- ["Ps9_Hashable", "pi"]
+- ["Ps9_Hashable", "rawValue"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "Stride"]
+- !private ["Ps14_Incrementable", "hashValue"]
+- !private ["Ps8_Integer", "Stride"]
+- !private ["Ps8_Integer", "hashValue"]
+- !private ["Ps18_IntegerArithmetic", "Stride"]
+- !private ["Ps18_IntegerArithmetic", "hashValue"]
+- ["Ps21_ObjectiveCBridgeable", "RawValue"]
+- ["Ps21_ObjectiveCBridgeable", "Stride"]
+- ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "hashValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- ["Ps21_ObjectiveCBridgeable", "pi"]
+- ["Vs26_OptionalNilComparisonType", "deinit"]
+- !private ["Ps14_SignedInteger", "Stride"]
+- !private ["Ps14_SignedInteger", "hashValue"]
+- ["Ps11_Strideable", "RawValue"]
+- ["Ps11_Strideable", "Stride"]
+- !private ["Ps11_Strideable", "hashValue"]
+- ["Ps11_Strideable", "init"]
+- ["Ps11_Strideable", "pi"]
+depends-nominal:
+- "Ps16AbsoluteValuable"
+- "Ps19BinaryFloatingPoint"
+- !private "Ps17BitwiseOperations"
+- "Sb"
+- "V12CoreGraphics7CGFloat"
+- "Ps7CVarArg"
+- "O6Charts17ChartEasingOption"
+- !private "Vs11ClosedRange"
+- "Ps10Comparable"
+- !private "Vs20CountableClosedRange"
+- !private "Vs14CountableRange"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "VSC7Decimal"
+- "O8Dispatch20DispatchTimeInterval"
+- "Sd"
+- "V6Charts15EasingFunctions"
+- "Ps9Equatable"
+- "Ps27ExpressibleByBooleanLiteral"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- "Sf"
+- "Vs7Float80"
+- "Ps13FloatingPoint"
+- "Ps8Hashable"
+- "Si"
+- "Vs5Int16"
+- "Vs5Int32"
+- "Vs5Int64"
+- "Vs4Int8"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- "Ps25LosslessStringConvertible"
+- "V10Foundation11Measurement"
+- !private "Ps10MirrorPath"
+- "Sq"
+- !private "Vs5Range"
+- "Ps16RawRepresentable"
+- !private "Ps13SignedInteger"
+- "Ps12SignedNumber"
+- "Ps10Strideable"
+- "Su"
+- "Vs6UInt16"
+- "Vs6UInt32"
+- "Vs6UInt64"
+- "Vs5UInt8"
+- "Sp"
+- "SP"
+- "Ps15_CVarArgAligned"
+- "Ps22_CVarArgPassedAsDouble"
+- "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps33_ExpressibleByBuiltinFloatLiteral"
+- "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- "Ps21_ObjectiveCBridgeable"
+- "Vs26_OptionalNilComparisonType"
+- !private "Ps14_SignedInteger"
+- "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target Support Files/Charts/Charts-umbrella.h"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/Pods.build/Debug-iphonesimulator/Charts.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "37d2b30452d6351ccea1734b9d70f465"

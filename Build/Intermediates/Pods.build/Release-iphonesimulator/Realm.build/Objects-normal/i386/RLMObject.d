@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/Realm/RLMObject.mm \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target\ Support\ Files/Realm/Realm-prefix.pch \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObject_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObject_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectBase_Dynamic.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObject.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectBase.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMThreadSafeReference.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMRealm.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMConstants.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMClassInfo.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMUtil.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMOptionalBase.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMAccessor.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMArray.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMCollection.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMCollection_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMCollection_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectBase_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectSchema_Private.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectSchema_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectSchema.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object_schema.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMObjectStore.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMProperty.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMQueryUtil.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMSchema_Private.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/RLMSchema.h \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/collection_notifications.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/index_set.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/util/atomic_shared_ptr.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/object.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/impl/collection_notifier.hpp \
+  /Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Realm/include/impl/collection_change_builder.hpp

@@ -1,0 +1,180 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BubbleChartDataEntry"
+provides-nominal:
+- "C6Charts20BubbleChartDataEntry"
+provides-member:
+- ["C6Charts20BubbleChartDataEntry", ""]
+provides-dynamic-lookup:
+- "copyWithZone"
+- "size"
+depends-top-level:
+- !private "StringLiteralType"
+- "NSUIImage"
+- "ChartDataEntry"
+- "BubbleChartDataEntry"
+- "CGFloat"
+- "Double"
+- "CastingPrecedence"
+- "AnyObject"
+- "AssignmentPrecedence"
+- "NSZone"
+depends-member:
+- ["Ps16AbsoluteValuable", "init"]
+- ["Ps9AnyObject", "CGFloat"]
+- ["Ps9AnyObject", "copyWithZone"]
+- ["Ps9AnyObject", "deinit"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "size"]
+- ["Ps9AnyObject", ""]
+- ["Ps19BinaryFloatingPoint", "init"]
+- ["C6Charts20BubbleChartDataEntry", "AnyObject"]
+- !private ["C6Charts20BubbleChartDataEntry", "BubbleChartDataEntry"]
+- ["C6Charts20BubbleChartDataEntry", "CGFloat"]
+- ["C6Charts20BubbleChartDataEntry", "Double"]
+- ["C6Charts20BubbleChartDataEntry", "NSUIImage"]
+- ["C6Charts20BubbleChartDataEntry", "NSZone"]
+- ["C6Charts20BubbleChartDataEntry", "copyWithZone"]
+- ["C6Charts20BubbleChartDataEntry", "deinit"]
+- ["C6Charts20BubbleChartDataEntry", "init"]
+- ["C6Charts20BubbleChartDataEntry", "size"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["V12CoreGraphics7CGFloat", "init"]
+- ["Ps7CVarArg", "CGFloat"]
+- ["Ps7CVarArg", "copyWithZone"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "size"]
+- ["Ps7CVarArg", ""]
+- ["C6Charts14ChartDataEntry", "AnyObject"]
+- !private ["C6Charts14ChartDataEntry", "BubbleChartDataEntry"]
+- ["C6Charts14ChartDataEntry", "CGFloat"]
+- ["C6Charts14ChartDataEntry", "Double"]
+- ["C6Charts14ChartDataEntry", "NSUIImage"]
+- ["C6Charts14ChartDataEntry", "NSZone"]
+- ["C6Charts14ChartDataEntry", "copyWithZone"]
+- ["C6Charts14ChartDataEntry", "deinit"]
+- ["C6Charts14ChartDataEntry", "init"]
+- ["C6Charts14ChartDataEntry", "size"]
+- ["C6Charts14ChartDataEntry", ""]
+- ["C6Charts18ChartDataEntryBase", "AnyObject"]
+- !private ["C6Charts18ChartDataEntryBase", "BubbleChartDataEntry"]
+- ["C6Charts18ChartDataEntryBase", "CGFloat"]
+- ["C6Charts18ChartDataEntryBase", "Double"]
+- ["C6Charts18ChartDataEntryBase", "NSUIImage"]
+- ["C6Charts18ChartDataEntryBase", "NSZone"]
+- ["C6Charts18ChartDataEntryBase", "copyWithZone"]
+- ["C6Charts18ChartDataEntryBase", "size"]
+- ["Ps10Comparable", "init"]
+- ["Ps28CustomDebugStringConvertible", "CGFloat"]
+- ["Ps28CustomDebugStringConvertible", "copyWithZone"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "size"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps17CustomReflectable", "init"]
+- ["Ps23CustomStringConvertible", "CGFloat"]
+- ["Ps23CustomStringConvertible", "copyWithZone"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "size"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Sd", "deinit"]
+- ["Ps9Equatable", "CGFloat"]
+- ["Ps9Equatable", "copyWithZone"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "size"]
+- ["Ps9Equatable", ""]
+- !private ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- ["Ps25ExpressibleByFloatLiteral", "init"]
+- ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps26ExpressibleByStringLiteral", "init"]
+- !private ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps13FloatingPoint", "init"]
+- ["Ps8Hashable", "CGFloat"]
+- ["Ps8Hashable", "copyWithZone"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "size"]
+- ["Ps8Hashable", ""]
+- ["CSo8NSObject", "AnyObject"]
+- !private ["CSo8NSObject", "BubbleChartDataEntry"]
+- ["CSo8NSObject", "CGFloat"]
+- ["CSo8NSObject", "Double"]
+- ["CSo8NSObject", "NSUIImage"]
+- ["CSo8NSObject", "NSZone"]
+- ["CSo8NSObject", "copyWithZone"]
+- ["CSo8NSObject", "size"]
+- ["PSo16NSObjectProtocol", "CGFloat"]
+- ["PSo16NSObjectProtocol", "copyWithZone"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "size"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Os5Never", "deinit"]
+- ["Sq", "deinit"]
+- ["Ps12SignedNumber", "init"]
+- ["Vs12StaticString", "deinit"]
+- !private ["Vs12StaticString", "init"]
+- ["Ps10Strideable", "init"]
+- ["Su", "deinit"]
+- ["Ps15_CVarArgAligned", "init"]
+- ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- !private ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps9_Hashable", "CGFloat"]
+- ["Ps9_Hashable", "copyWithZone"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "size"]
+- ["Ps9_Hashable", ""]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- ["Ps11_Strideable", "init"]
+depends-nominal:
+- "Ps16AbsoluteValuable"
+- "Ps9AnyObject"
+- "Ps19BinaryFloatingPoint"
+- "C6Charts20BubbleChartDataEntry"
+- "V12CoreGraphics7CGFloat"
+- "Ps7CVarArg"
+- "C6Charts14ChartDataEntry"
+- "C6Charts18ChartDataEntryBase"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps26ExpressibleByStringLiteral"
+- !private "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps13FloatingPoint"
+- "Ps8Hashable"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Os5Never"
+- "Sq"
+- "Ps12SignedNumber"
+- "Vs12StaticString"
+- "Ps10Strideable"
+- "Su"
+- "Ps15_CVarArgAligned"
+- "Ps22_CVarArgPassedAsDouble"
+- !private "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps34_ExpressibleByBuiltinStringLiteral"
+- !private "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Pods/Target Support Files/Charts/Charts-umbrella.h"
+- "/Users/apple-1/Documents/xCode/CoreDataSampleApp/Build/Intermediates/IBDesignables/Intermediates/Pods.build/Debug-iphonesimulator/Charts.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "99864c1fafceb007213911f9b42773db"

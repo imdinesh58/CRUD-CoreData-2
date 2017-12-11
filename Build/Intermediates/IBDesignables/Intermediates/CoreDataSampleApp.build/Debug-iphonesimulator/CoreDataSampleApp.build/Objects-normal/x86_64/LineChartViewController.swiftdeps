@@ -1,0 +1,342 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LineChartViewController"
+provides-nominal:
+- "C17CoreDataSampleApp23LineChartViewController"
+provides-member:
+- ["C17CoreDataSampleApp23LineChartViewController", ""]
+provides-dynamic-lookup:
+- "viewWillAppear"
+- "viewDidLoad"
+depends-top-level:
+- "Bool"
+- !private "Dictionary"
+- "UIViewController"
+- !private "XAxis"
+- "LineChartView"
+- "AssignmentPrecedence"
+- !private "LineChartDataSet"
+- !private "LineChartData"
+- !private "NSUIColor"
+- !private "ChartDataEntry"
+- !private "Int"
+- !private "StringLiteralType"
+- !private "Double"
+- "LineChartViewController"
+depends-member:
+- !private ["Ps9AnyObject", "ChartDataEntry"]
+- !private ["Ps9AnyObject", "Double"]
+- !private ["Ps9AnyObject", "LineChartData"]
+- !private ["Ps9AnyObject", "LineChartDataSet"]
+- !private ["Ps9AnyObject", "NSUIColor"]
+- !private ["Ps9AnyObject", "XAxis"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "lineChartView"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", "viewWillAppear"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps7CVarArg", "ChartDataEntry"]
+- !private ["Ps7CVarArg", "Double"]
+- !private ["Ps7CVarArg", "Key"]
+- !private ["Ps7CVarArg", "LineChartData"]
+- !private ["Ps7CVarArg", "LineChartDataSet"]
+- !private ["Ps7CVarArg", "NSUIColor"]
+- !private ["Ps7CVarArg", "Value"]
+- !private ["Ps7CVarArg", "XAxis"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "lineChartView"]
+- !private ["Ps7CVarArg", "map"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", "viewWillAppear"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Key"]
+- !private ["Ps10Collection", "Value"]
+- !private ["Ps10Collection", "map"]
+- !private ["Ps28CustomDebugStringConvertible", "ChartDataEntry"]
+- !private ["Ps28CustomDebugStringConvertible", "Double"]
+- !private ["Ps28CustomDebugStringConvertible", "Key"]
+- !private ["Ps28CustomDebugStringConvertible", "LineChartData"]
+- !private ["Ps28CustomDebugStringConvertible", "LineChartDataSet"]
+- !private ["Ps28CustomDebugStringConvertible", "NSUIColor"]
+- !private ["Ps28CustomDebugStringConvertible", "Value"]
+- !private ["Ps28CustomDebugStringConvertible", "XAxis"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "lineChartView"]
+- !private ["Ps28CustomDebugStringConvertible", "map"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", "viewWillAppear"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps17CustomReflectable", "Key"]
+- !private ["Ps17CustomReflectable", "Value"]
+- !private ["Ps17CustomReflectable", "map"]
+- !private ["Ps23CustomStringConvertible", "ChartDataEntry"]
+- !private ["Ps23CustomStringConvertible", "Double"]
+- !private ["Ps23CustomStringConvertible", "Key"]
+- !private ["Ps23CustomStringConvertible", "LineChartData"]
+- !private ["Ps23CustomStringConvertible", "LineChartDataSet"]
+- !private ["Ps23CustomStringConvertible", "NSUIColor"]
+- !private ["Ps23CustomStringConvertible", "Value"]
+- !private ["Ps23CustomStringConvertible", "XAxis"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "lineChartView"]
+- !private ["Ps23CustomStringConvertible", "map"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", "viewWillAppear"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Vs10Dictionary", "Key"]
+- !private ["Vs10Dictionary", "Value"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Vs10Dictionary", "map"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "ChartDataEntry"]
+- !private ["Ps9Equatable", "Double"]
+- !private ["Ps9Equatable", "LineChartData"]
+- !private ["Ps9Equatable", "LineChartDataSet"]
+- !private ["Ps9Equatable", "NSUIColor"]
+- !private ["Ps9Equatable", "XAxis"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "lineChartView"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", "viewWillAppear"]
+- ["Ps9Equatable", ""]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Key"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "Value"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "map"]
+- !private ["Ps8Hashable", "ChartDataEntry"]
+- !private ["Ps8Hashable", "Double"]
+- !private ["Ps8Hashable", "LineChartData"]
+- !private ["Ps8Hashable", "LineChartDataSet"]
+- !private ["Ps8Hashable", "NSUIColor"]
+- !private ["Ps8Hashable", "XAxis"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "lineChartView"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", "viewWillAppear"]
+- ["Ps8Hashable", ""]
+- !private ["Ps9Indexable", "Key"]
+- !private ["Ps9Indexable", "Value"]
+- !private ["Ps9Indexable", "map"]
+- !private ["Ps13IndexableBase", "Key"]
+- !private ["Ps13IndexableBase", "Value"]
+- !private ["Ps13IndexableBase", "map"]
+- ["Si", "deinit"]
+- ["C17CoreDataSampleApp23LineChartViewController", "Bool"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "ChartDataEntry"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "Double"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "Int"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "LineChartData"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "LineChartDataSet"]
+- ["C17CoreDataSampleApp23LineChartViewController", "LineChartView"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "NSUIColor"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "XAxis"]
+- ["C17CoreDataSampleApp23LineChartViewController", "deinit"]
+- ["C17CoreDataSampleApp23LineChartViewController", "init"]
+- !private ["C17CoreDataSampleApp23LineChartViewController", "lineChartView"]
+- ["C17CoreDataSampleApp23LineChartViewController", "viewDidLoad"]
+- ["C17CoreDataSampleApp23LineChartViewController", "viewWillAppear"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "ChartDataEntry"]
+- !private ["PSo8NSCoding", "Double"]
+- !private ["PSo8NSCoding", "LineChartData"]
+- !private ["PSo8NSCoding", "LineChartDataSet"]
+- !private ["PSo8NSCoding", "NSUIColor"]
+- !private ["PSo8NSCoding", "XAxis"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "lineChartView"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", "viewWillAppear"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo26NSExtensionRequestHandling", "ChartDataEntry"]
+- !private ["PSo26NSExtensionRequestHandling", "Double"]
+- !private ["PSo26NSExtensionRequestHandling", "LineChartData"]
+- !private ["PSo26NSExtensionRequestHandling", "LineChartDataSet"]
+- !private ["PSo26NSExtensionRequestHandling", "NSUIColor"]
+- !private ["PSo26NSExtensionRequestHandling", "XAxis"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "lineChartView"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", "viewWillAppear"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "ChartDataEntry"]
+- !private ["CSo8NSObject", "Double"]
+- !private ["CSo8NSObject", "Int"]
+- !private ["CSo8NSObject", "LineChartData"]
+- !private ["CSo8NSObject", "LineChartDataSet"]
+- ["CSo8NSObject", "LineChartView"]
+- !private ["CSo8NSObject", "NSUIColor"]
+- !private ["CSo8NSObject", "XAxis"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "lineChartView"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "viewWillAppear"]
+- !private ["PSo16NSObjectProtocol", "ChartDataEntry"]
+- !private ["PSo16NSObjectProtocol", "Double"]
+- !private ["PSo16NSObjectProtocol", "LineChartData"]
+- !private ["PSo16NSObjectProtocol", "LineChartDataSet"]
+- !private ["PSo16NSObjectProtocol", "NSUIColor"]
+- !private ["PSo16NSObjectProtocol", "XAxis"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "lineChartView"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "viewWillAppear"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- !private ["Ps8Sequence", "Key"]
+- !private ["Ps8Sequence", "Value"]
+- !private ["Ps8Sequence", "map"]
+- !private ["PSo21UIAppearanceContainer", "ChartDataEntry"]
+- !private ["PSo21UIAppearanceContainer", "Double"]
+- !private ["PSo21UIAppearanceContainer", "LineChartData"]
+- !private ["PSo21UIAppearanceContainer", "LineChartDataSet"]
+- !private ["PSo21UIAppearanceContainer", "NSUIColor"]
+- !private ["PSo21UIAppearanceContainer", "XAxis"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "lineChartView"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "viewWillAppear"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "ChartDataEntry"]
+- !private ["PSo18UIContentContainer", "Double"]
+- !private ["PSo18UIContentContainer", "LineChartData"]
+- !private ["PSo18UIContentContainer", "LineChartDataSet"]
+- !private ["PSo18UIContentContainer", "NSUIColor"]
+- !private ["PSo18UIContentContainer", "XAxis"]
+- !private ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "lineChartView"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", "viewWillAppear"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo18UIFocusEnvironment", "ChartDataEntry"]
+- !private ["PSo18UIFocusEnvironment", "Double"]
+- !private ["PSo18UIFocusEnvironment", "LineChartData"]
+- !private ["PSo18UIFocusEnvironment", "LineChartDataSet"]
+- !private ["PSo18UIFocusEnvironment", "NSUIColor"]
+- !private ["PSo18UIFocusEnvironment", "XAxis"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- !private ["PSo18UIFocusEnvironment", "lineChartView"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", "viewWillAppear"]
+- ["PSo18UIFocusEnvironment", ""]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "ChartDataEntry"]
+- !private ["CSo11UIResponder", "Double"]
+- !private ["CSo11UIResponder", "Int"]
+- !private ["CSo11UIResponder", "LineChartData"]
+- !private ["CSo11UIResponder", "LineChartDataSet"]
+- ["CSo11UIResponder", "LineChartView"]
+- !private ["CSo11UIResponder", "NSUIColor"]
+- !private ["CSo11UIResponder", "XAxis"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "lineChartView"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "viewWillAppear"]
+- !private ["PSo30UIResponderStandardEditActions", "ChartDataEntry"]
+- !private ["PSo30UIResponderStandardEditActions", "Double"]
+- !private ["PSo30UIResponderStandardEditActions", "LineChartData"]
+- !private ["PSo30UIResponderStandardEditActions", "LineChartDataSet"]
+- !private ["PSo30UIResponderStandardEditActions", "NSUIColor"]
+- !private ["PSo30UIResponderStandardEditActions", "XAxis"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- !private ["PSo30UIResponderStandardEditActions", "lineChartView"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "viewWillAppear"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "ChartDataEntry"]
+- !private ["PSo16UIStateRestoring", "Double"]
+- !private ["PSo16UIStateRestoring", "LineChartData"]
+- !private ["PSo16UIStateRestoring", "LineChartDataSet"]
+- !private ["PSo16UIStateRestoring", "NSUIColor"]
+- !private ["PSo16UIStateRestoring", "XAxis"]
+- !private ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "lineChartView"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "viewWillAppear"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "ChartDataEntry"]
+- !private ["PSo18UITraitEnvironment", "Double"]
+- !private ["PSo18UITraitEnvironment", "LineChartData"]
+- !private ["PSo18UITraitEnvironment", "LineChartDataSet"]
+- !private ["PSo18UITraitEnvironment", "NSUIColor"]
+- !private ["PSo18UITraitEnvironment", "XAxis"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "lineChartView"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", "viewWillAppear"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo16UIViewController", "Bool"]
+- !private ["CSo16UIViewController", "ChartDataEntry"]
+- !private ["CSo16UIViewController", "Double"]
+- !private ["CSo16UIViewController", "Int"]
+- !private ["CSo16UIViewController", "LineChartData"]
+- !private ["CSo16UIViewController", "LineChartDataSet"]
+- ["CSo16UIViewController", "LineChartView"]
+- !private ["CSo16UIViewController", "NSUIColor"]
+- !private ["CSo16UIViewController", "XAxis"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "lineChartView"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "viewWillAppear"]
+- ["CSo16UIViewController", ""]
+- !private ["Ps9_Hashable", "ChartDataEntry"]
+- !private ["Ps9_Hashable", "Double"]
+- !private ["Ps9_Hashable", "LineChartData"]
+- !private ["Ps9_Hashable", "LineChartDataSet"]
+- !private ["Ps9_Hashable", "NSUIColor"]
+- !private ["Ps9_Hashable", "XAxis"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "lineChartView"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", "viewWillAppear"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "Key"]
+- !private ["Ps21_ObjectiveCBridgeable", "Value"]
+- !private ["Ps21_ObjectiveCBridgeable", "map"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Sd"
+- "Ps9Equatable"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- "Si"
+- "C17CoreDataSampleApp23LineChartViewController"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- !private "Ps8Sequence"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- "PSo18UIFocusEnvironment"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- "CSo16UIViewController"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "96d059d10bafedfc469d757cb9c21c2b"
